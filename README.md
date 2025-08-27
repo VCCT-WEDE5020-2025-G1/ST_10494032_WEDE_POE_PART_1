@@ -21,4 +21,8 @@ The Second Development Stage will be from the 7th of April till the 2nd of May. 
 After the development stages are completed then you should monitor and get feedback. This will be done from the 9th of June tile the 27th of June. In this time, we will collect user feedback, fix any minor bug issues, and the final report to DPSA.
 After all of that we need to maintain the Website. This will be done 1st of July till the 31st of December. In that time period we will do monthly updates, Security patches and analytic reports. 
 ## Site Map 
-<img width="512" height="449" alt="WEDE_POE" src="https://github.com/user-attachments/assets/4525667a-071b-48ea-958b-fd5d01627043" />
+<img width="512" height="449" alt="WEDE_POE" src="https://github.com/user-attachments/assets/efce353c-5999-4d5b-a878-3a06a2cfcfc0" />
+
+## Repository Link
+
+https://github.com/VCCT-WEDE5020-2025-G1/ST_10494032_WEDE_POE_PART_1/tree/main 
