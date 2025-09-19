@@ -7,25 +7,45 @@ body {
     background-color: #f4f4f4;
     color: #333;
 }
+
+/* Header styles */
 header {
     background: #004080;
     color: #ffffff;
     padding: 20px;
     text-align: center;
 }
+
+/* Header elements */
 header h1 {
     margin: 0;
     font-size: 1.8em;
-} 
+}
+
+/* Paragraph inside header */
 header p {
     margin:5px 0 15px;
 }
+
+/* Navigation styles */
 nav {
     margin: 10px 0;
 }
+
+/* Navigation links */
 nav a {
     color: #ffffff;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
+}
+
+/* Main content styles */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
