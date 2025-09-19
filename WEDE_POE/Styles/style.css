@@ -7,3 +7,25 @@ body {
     background-color: #f4f4f4;
     color: #333;
 }
+header {
+    background: #004080;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+header h1 {
+    margin: 0;
+    font-size: 1.8em;
+} 
+header p {
+    margin:5px 0 15px;
+}
+nav {
+    margin: 10px 0;
+}
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
