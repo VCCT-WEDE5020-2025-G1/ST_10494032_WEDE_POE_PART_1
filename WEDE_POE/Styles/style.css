@@ -62,3 +62,25 @@ form button {
     border-radius: 5px;
     font-size: 1rem;
 }
+
+
+form button {
+    background: #004080;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+form button {
+    background: #0066cc;
+}
+
+footer {
+    background: #004080;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
+}
