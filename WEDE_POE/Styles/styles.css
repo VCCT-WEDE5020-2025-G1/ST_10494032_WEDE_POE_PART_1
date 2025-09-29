@@ -4,13 +4,13 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6 ;
-    background-color: #f1f8e9;
+    background-color: #e6f0fa;
     color: #000000;
 }
 
 /* Header styles */
 header {
-    background: #2e7d32;
+    background: #1565c0;
     color: #ffffff;
     padding: 20px;
     text-align: center;
@@ -58,14 +58,14 @@ form button {
     width: 100%;
     padding: 10px;
     margin: 6px 0 12px;
-    border: 1px solid #a5d6a7;
+    border: 1px solid #90caf9;
     border-radius: 5px;
     font-size: 1rem;
 }
 
 /* Button styles */
 form button {
-    background: #66bb6a;
+    background: #42a5f5;
     color: white;
     border: none;
     cursor: pointer;
@@ -74,12 +74,12 @@ form button {
 
 /* Button hover effect */
 form button {
-    background: #2e7d32;
+    background: #1535c0;
 }
 
 /* Footer styles */
 footer {
-    background: #1b5e20;
+    background: #0d47a1;
     color: #ffffff;
     text-align: center;
     padding: 10px;
