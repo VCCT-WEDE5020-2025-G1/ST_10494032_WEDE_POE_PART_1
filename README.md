@@ -26,3 +26,18 @@ After all of that we need to maintain the Website. This will be done 1st of July
 ## Repository Link
 
 https://github.com/VCCT-WEDE5020-2025-G1/ST_10494032_WEDE_POE_PART_1/tree/main 
+
+## ScreenShots
+
+### Phone Samsung S9 
+
+![HomeScreenPhoneTwo](https://github.com/user-attachments/assets/819fc61f-a635-4d86-853d-d0c80821fd31)
+![HomeScreenPhoneOne](https://github.com/user-attachments/assets/e419ec91-1d12-4fde-8418-824964e480af)
+
+### iPad Mini
+
+![Home screeniPadMini](https://github.com/user-attachments/assets/691e7166-78a1-46c7-9bc2-effd8f7b6708)
+
+### Desktop
+
+![HomeScreenDesktop](https://github.com/user-attachments/assets/5664e3da-8468-4f17-a531-ea26bd370848)
