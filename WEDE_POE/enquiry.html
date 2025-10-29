@@ -1,50 +1,54 @@
-<!doctype html> <!-- Declaration of Document type -->
-<html lang="en"> <!-- Language set to English-->
-<head> <!-- Head section that has meta information-->
-  <meta charset="utf-8" /> <!-- Font set to UTF-8-->
-  <title>DPSA — Enquiry</title> <!-- title of webpage--> 
-  <link rel="icon" type="png"
-  href="Assests/DPSA Logo.jpg" /> <!-- Link to favicon image -->
-  <meta name="viewport" content="width=device-width, initial-scale=1" /> <!-- Responsive design -->
-  <link rel="stylesheet" href="Styles/styles.css" /> <!-- Link to CSS Style sheet when i make it in Part 2-->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>DPSA Enquiry — Get Involved</title>
+  <meta name="description" content="Submit your enquiry to DPSA. Ask questions, request support, or learn more about disability rights advocacy in South Africa." />
+  <meta name="keywords" content="DPSA enquiry, contact form, disability support, advocacy, inclusion, South Africa" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="Styles/styles.css" />
 </head>
-<body> <!-- Start of body section-->
-  <header> <!-- Header section-->
-    <h1>Disabled People in South Africa (DPSA)</h1>
-    <nav> <!-- Navigation links -->
-      <a href="index.html">Home</a> | <!-- Added pipe separators for better readability -->
-      <a href="about.html">About</a> | 
-      <a href="services.html">Services</a> |
-      <a href="enquiry.html">Enquiry</a> |
+<body>
+  <header>
+    <img src= "Assests/DPSA Logo.jpg" alt="DPSA icon" class="logo">
+    <h1>Enquiry Form</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="enquiry.html">Enquiry</a>
       <a href="contact.html">Contact</a>
     </nav>
   </header>
 
-  <main> <!-- Main content area -->
-    <h2>Enquiry Form</h2>
-    <form action="mailto:info@dpsa.org.za" method="post" enctype="text/plain"> <!-- Form setup to send email -->
-      <label for="name">Name:</label><br /> <!-- Label and input for Name -->
-      <input type="text" id="name" name="Name" required /><br /><br /> <!-- Required field -->
+  <main class="fade-in">
+    <h2>Submit Your Enquiry</h2>
+    <form>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required />
 
-      <label for="Surname">Surname:</label><br /> <!-- Label and input for Surname -->
-      <input type="text" id="surname" name="Surname" required /><br /><br /> <!-- Required field -->
+      <label for="surname"> Surname:</label>
+      <input type="text" id="surname" name="surname" required />
 
-      <label for="phone">Phone Number:</label><br /> <!-- Label and input for Phone Number -->
-      <input type="tel" id="phone" name="Phone" required /><br /><br /> <!-- Required field -->
+      <label for="phone">Phone Number:</label>
+      <input type="tel" id="phone" name="phone" required />
 
-      <label for="email">Email:</label><br /> <!-- Label and input for Email -->
-      <input type="email" id="email" name="Email" required /><br /><br /> <!-- Required field -->
+      <label for="email">Email Address:</label>
+      <input type="email" id="email" name="email" required />
 
-      <label for="message">Message:</label><br /> <!-- Label and textarea for Message -->
-      <textarea id="message" name="Message" rows="6" required></textarea><br /><br /> <!-- Required field -->
+      <label for="message">Message:</label>
+      <textarea id="message" name="message" rows="6" required></textarea>
 
-      <button type="submit">Send Enquiry</button> <!-- Submit button -->
-      <button type="reset">Clear</button> <!-- Reset button to clear form -->
+      <button type="submit">Submit</button>
     </form>
-  </main> 
 
-  <footer> <!-- Footer section-->
-    <p>&copy; 2025 Disabled People in South Africa (DPSA). All rights reserved.</p>
+    <div id="success-popup" class="popup">Thank you! Your enquiry has been sent.</div>
+  </main>
+
+  <footer>
+    <p>&copy; <span id="year">2025</span> Disabled People in South Africa (DPSA). All rights reserved.</p>
   </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
