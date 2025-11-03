@@ -1,12 +1,16 @@
 # WEDE_Poe_part_3
 
-I designed a website show casing my skills in the Web development. Starting with my Basic HTML Structure moving on to Implementng CSS and Finbally adding JavaScript.When it is completed i will have a fully funcyional, responsive and SEO- optimized website.
+I designed a website show casing my skills in the Web development. Starting with my Basic HTML Structure moving on to Implementng CSS and Finbally adding JavaScript.When it is completed i will have a fully funcyional, responsive and SEO- optimized website. Disabled People South Africa (DPSA) is a nonprofit and democratic cross-disability body made up of member organisations of disabled people that mobilises and advocate for their rights for attainment of equal opportunity. DPSA is recognised as the national assembly of disabled people by Disabled People International (DPI), which has observer status in the United Nations.
 ## Installation
 
 You can run this on any browser when it goes public. However for the time being you need to log onto my account on my VM and use a Live Sever to view the website.
 ## Features
 
 ### Main Features
+- Clear Navigation
+- Keyboard Navigation
+- Screen reader Compatibility
+- Accessible Cities South Africa (AC-SA) Platform
 - Client Side validation
 - Aria current (Shows what current page you are on)
 - Hover effects on buttons 
